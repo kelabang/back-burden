@@ -1,2 +1,3 @@
-# back-burden
-API
+# burden
+
+a [Sails](http://sailsjs.org) application
